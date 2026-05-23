@@ -1,2 +1,2 @@
-print("Hello, World!")
-print("welcome to R programming ")
+print(paste("hello ,", readline("What is your name?")))
+#hello this is a comment
