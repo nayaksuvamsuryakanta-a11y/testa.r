@@ -4,3 +4,4 @@ bowser <- as.integer(readline("Enter votes for Bowser:"))
 
 total <- sum(mario, peach, bowser)
 print(paste("Total votes:", total))
+
