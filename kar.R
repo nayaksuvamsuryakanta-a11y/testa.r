@@ -66,3 +66,4 @@ hist(dice_rolls,
      breaks = 0.5:6.5)
 dev.off() # Closes the plotting device
 print("Plot saved as 'dice_plot.png'")
+
