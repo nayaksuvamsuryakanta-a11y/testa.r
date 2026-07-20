@@ -33,7 +33,7 @@ plot(
   main = "Salary vs Age", 
   xlab = "Age (Years)", 
   ylab = "Salary ($)", 
-  col = "blue", 
+  col = "red", 
   pch = 16
 )
 
