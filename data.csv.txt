@@ -1,0 +1,6 @@
+ID,Name,Department,Salary,Join_Date
+101,John Doe,Marketing,55000,2022-03-15
+102,Jane Smith,Engineering,72000,2021-07-22
+103,Bob Johnson,Sales,48000,2023-01-10
+104,Alice Williams,Engineering,81000,2020-11-01
+105,Charlie Brown,Marketing,51000,2022-09-05
