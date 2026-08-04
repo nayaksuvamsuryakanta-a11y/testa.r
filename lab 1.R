@@ -1,4 +1,5 @@
 data <- read.csv("data.csv")
 head(data)
 str(data)
-head(data,58)
+head(data,21)
+
