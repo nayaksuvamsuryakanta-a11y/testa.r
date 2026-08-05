@@ -1,9 +1,10 @@
 
-mean_val <- mean(data$Price, na.rm = TRUE)
-median_val <- median(data$Price, na.rm = TRUE)
-min_val <- min(data$Price, na.rm = TRUE)
-max_val <- max(data$Price, na.rm = TRUE)
-print(paste("Mean:", mean_val))
-print(paste("Median:", median_val))
-print(paste("Min:", min_val))
-print(paste("Max:", max_val))
+meanval <- mean(data$Price, na.rm = TRUE)
+medianval <- median(data$Price, na.rm = TRUE)
+minval <- min(data$Price, na.rm = TRUE)
+maxval <- max(data$Price, na.rm = TRUE)
+print(paste("Mean:", meanval))
+print(paste("Median:", medianval))
+print(paste("Min:", minval))
+print(paste("Max:", maxval))
+data
