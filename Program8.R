@@ -10,3 +10,4 @@ print("Descending:")
 print(descending)
 print("Indices of sorted order:")
 print(index_order)
+  

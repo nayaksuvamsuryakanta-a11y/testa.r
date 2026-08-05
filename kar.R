@@ -14,11 +14,7 @@ employee_data <- data.frame(
   stringsAsFactors = FALSE
 )
 
-# ==========================================
-# 2. CONTROL FLOW & FUNCTIONS
-# ==========================================
 
-# A simple custom function to check high salary
 check_salary <- function(salary_value) {
   if (salary_value > 60000) {
     return("High Salary")

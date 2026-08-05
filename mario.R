@@ -4,4 +4,8 @@ bowser <- as.integer(readline("Enter votes for Bowser:"))
 
 total <- sum(mario, peach, bowser)
 print(paste("Total votes:", total))
+votes<-read.csv("votes.csv")
 
+votes$poll
+votes[1,2]
+votes$mail

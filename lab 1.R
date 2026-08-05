@@ -3,3 +3,4 @@ head(data)
 str(data)
 head(data,21)
 
+data$Price
