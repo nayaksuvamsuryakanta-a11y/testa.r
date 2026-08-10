@@ -1,2 +1,3 @@
+name <- readline("what is your name ?" )
+print(paste("hello,",name))
 
-print( paste0("Hello, ",readline("what is your name ?" ) ))

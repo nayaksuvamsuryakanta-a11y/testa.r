@@ -1,6 +1,12 @@
-mario <- as.integer(readline("Enter votes for Mario:"))
-peach <- as.integer(readline("Enter votes for Peach:"))
-bowser <- as.integer(readline("Enter votes for Bowser:"))
+mario <- as.integer(readline("enter votes for mario: "))
+peach <- as.integer(readline("enter votes for peach: "))
+bowser <- as.integer(readline("enter votes for bowser: "))
 
-total <- mario + peach + bowser
+
+
+total <- sum(mario,peach,bowser)
+
+
+
+
 print(paste("Total votes:", total))
