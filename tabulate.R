@@ -1,2 +1,2 @@
-VOTES <- read.csv("VOTES.csv" )
-VOTES[, 2]
+votes <- read.csv("votes.csv")
+View(votes)
