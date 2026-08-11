@@ -1,10 +1,9 @@
-url <- "https://github.com/fivethirtyeight/data/raw/master/non-voters/nonvoters_data.csv"
+url <- "https://github.com/fivethirtyeight/data/raw/master/non-voters/nonvoter_data.csv"
 voters <- read.csv(url)
-
 
 factor(
   voters$Q21,
-  labels = c( "YES","No","Unsure/Undecided"),
+  labels = c("yes","no","unsure/undecided"),
   exclude = c(-1)
-)
-
+  
+  )
