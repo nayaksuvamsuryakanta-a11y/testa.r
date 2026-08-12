@@ -1,1 +1,2 @@
-load("list.csv")
+load("list.RData")
+
