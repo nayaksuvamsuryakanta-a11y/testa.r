@@ -3,7 +3,7 @@
 
 <!-- MAIN TITLE WITH GLOWING EFFECT -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=Hello,+I'm+Alex;Full-Stack+Developer;UI%2FUX+Designer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=70&lines=Hello,+I'm+Suvam Suryakanta Nayak;Data+Scientist;UI%2FUX+Designer;Open+Source+Contributor" />
 </h1>
 
 <!-- SUB-HEADER BADGES (Social/Status) -->
